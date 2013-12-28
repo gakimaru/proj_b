@@ -1,0 +1,16 @@
+[submodule "lib/proj"]
+	path = lib/proj
+	url = git@github.com:gakimaru/proj_b_lib.git
+	branch = master
+[submodule "lib/common"]
+	path = lib/common
+	url = git@github.com:gakimaru/common_lib.git
+	branch = proj_b
+[submodule "lib/confidential"]
+	path = lib/confidential
+	url = git@github.com:gakimaru/common_lib_confidential.git
+	branch = proj_b
+[submodule "lib/individual"]
+	path = lib/individual
+	url = git@github.com:gakimaru/common_lib_individual.git
+	branch = proj_b
